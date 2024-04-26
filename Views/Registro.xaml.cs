@@ -14,7 +14,7 @@ public partial class Registro : ContentPage
         double monto = Convert.ToDouble(txtmonto.Text);
         double residuo = 1500 - monto;
         double cuota = residuo / 3;
-        double valorfinal = cuota + (3000 * 0.04);
+        double valorfinal = cuota + (1500 * 0.04);
         double valorTotal = monto + (valorfinal * 4);
         txtfin.Text = valorfinal.ToString();
     }
