@@ -38,8 +38,8 @@
                 Grid.Row="1" Grid.Column="0">
                 <Picker.Items>
                     <x:String>Ecuador</x:String>
-                    <x:String>Bolivia</x:String>
-                    <x:String>Venezuela</x:String>
+                    <x:String>Peru</x:String>
+                    <x:String>Colombia</x:String>
                 </Picker.Items>
             </Picker>
 
@@ -47,8 +47,8 @@
                 Grid.Row="2" Grid.Column="0">
                 <Picker.Items>
                     <x:String>Quito</x:String>
-                    <x:String>Tangamandapio</x:String>
-                    <x:String>Caracas</x:String>
+                    <x:String>Roca</x:String>
+                    <x:String>Cali</x:String>
                 </Picker.Items>
             </Picker>
 
